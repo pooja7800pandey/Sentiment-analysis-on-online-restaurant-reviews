@@ -3,3 +3,11 @@ This project is a full-stack web application for real-time sentiment analysis of
 It uses a pre-trained Support Vector Machine (SVM) model combined with TF-IDF vectorization to classify user input text as Positive, Negative, or Neutral.
 
 The application provides an easy-to-use Flask-based interface for users to analyze reviews instantly and view sentiment confidence scores.
+
+Features
+Real-time text sentiment prediction
+Flask-based interactive web interface
+Machine Learning model: SVM + TF-IDF
+Pre-trained model and vectorizer
+Responsive UI (HTML, CSS, Bootstrap)
+Easy integration and deployment
